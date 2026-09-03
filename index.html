@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Class 9 & 10 Assignment Solutions | Assignment Portal</title>
+
+    <meta
+      name="description"
+      content="Class 9 and Class 10 assignment solutions with subject-wise questions and easy-to-understand answers."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!-- ================= NAVBAR ================= -->
+
+    <header class="navbar">
+      <div class="logo-area">
+        <div class="logo">AS</div>
+
+        <div>
+          <h2>Assignment Portal</h2>
+          <small>School Learning Hub</small>
+        </div>
+      </div>
+
+      <nav>
+        <a href="#home">Home</a>
+        <a href="#classes">Classes</a>
+        <a href="#assignments">Assignments</a>
+
+        <button id="darkBtn">🌙</button>
+      </nav>
+    </header>
+
+    <!-- ================= HERO ================= -->
+
+    <section id="home" class="hero">
+      <div class="hero-content">
+        <span class="badge"> 📚 Learn • Practice • Revise </span>
+
+        <h1>Assignment <span>Solutions</span></h1>
+
+        <p>
+          Find class-wise and subject-wise assignments with easy-to-understand
+          solutions.
+        </p>
+
+        <a href="#classes" class="main-btn"> Explore Classes ↓ </a>
+      </div>
+    </section>
+
+    <!-- ================= CLASSES ================= -->
+
+    <section id="classes" class="section">
+      <div class="section-heading">
+        <div>
+          <small>ACADEMIC LIBRARY</small>
+          <h2>Choose Your Class</h2>
+        </div>
+
+        <span>12 Classes</span>
+      </div>
+
+      <div class="class-grid">
+        <!-- CLASS 1 -->
+
+        <div class="class-card">
+          <div class="class-number">1</div>
+
+          <div>
+            <h3>Class 1</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 2 -->
+
+        <div class="class-card">
+          <div class="class-number">2</div>
+
+          <div>
+            <h3>Class 2</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 3 -->
+
+        <div class="class-card">
+          <div class="class-number">3</div>
+
+          <div>
+            <h3>Class 3</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 4 -->
+
+        <div class="class-card">
+          <div class="class-number">4</div>
+
+          <div>
+            <h3>Class 4</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 5 -->
+
+        <div class="class-card">
+          <div class="class-number">5</div>
+
+          <div>
+            <h3>Class 5</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 6 -->
+
+        <div class="class-card">
+          <div class="class-number">6</div>
+
+          <div>
+            <h3>Class 6</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 7 -->
+
+        <div class="class-card">
+          <div class="class-number">7</div>
+
+          <div>
+            <h3>Class 7</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 8 -->
+
+        <div class="class-card">
+          <div class="class-number">8</div>
+
+          <div>
+            <h3>Class 8</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 9 -->
+
+        <a
+          href="#assignments"
+          class="class-card active"
+          onclick="showClass('Class 9')"
+        >
+          <div class="class-number">9</div>
+
+          <div>
+            <h3>Class 9</h3>
+            <p>S.St. Available</p>
+          </div>
+
+          <strong>→</strong>
+        </a>
+
+        <!-- CLASS 10 -->
+
+        <a
+          href="#assignments"
+          class="class-card active"
+          onclick="showClass('Class 10')"
+        >
+          <div class="class-number">10</div>
+
+          <div>
+            <h3>Class 10</h3>
+            <p>S.St. + Science</p>
+          </div>
+
+          <strong>→</strong>
+        </a>
+
+        <!-- CLASS 11 -->
+
+        <div class="class-card">
+          <div class="class-number">11</div>
+
+          <div>
+            <h3>Class 11</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+
+        <!-- CLASS 12 -->
+
+        <div class="class-card">
+          <div class="class-number">12</div>
+
+          <div>
+            <h3>Class 12</h3>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= ASSIGNMENTS ================= -->
+
+    <section id="assignments" class="section assignment-section">
+      <div class="section-heading">
+        <div>
+          <small id="assignmentSubtitle"> CLASS 9 • SOCIAL SCIENCE </small>
+
+          <h2 id="assignmentTitle">S.St. Assignment</h2>
+        </div>
+
+        <span id="questionCount"> 52 Questions </span>
+      </div>
+
+      <!-- SEARCH -->
+
+      <div class="search-box">
+        🔍
+
+        <input type="text" id="searchInput" placeholder="Search questions..." />
+      </div>
+
+      <!-- SUBJECT BUTTONS -->
+
+      <div class="subject-buttons" id="subjectButtons"></div>
+
+      <!-- QUESTIONS -->
+
+      <div id="questionContainer"></div>
+    </section>
+
+    <!-- ================= FEATURES ================= -->
+
+    <section class="features">
+      <div class="feature-card">
+        <div class="feature-icon">📚</div>
+
+        <h3>Easy Learning</h3>
+
+        <p>Simple and clear answers for better understanding.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🔍</div>
+
+        <h3>Quick Search</h3>
+
+        <p>Quickly find any assignment question.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🎯</div>
+
+        <h3>Exam Ready</h3>
+
+        <p>Practice important questions before exams.</p>
+      </div>
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer>
+      <div>
+        <h3>Assignment Portal</h3>
+
+        <p>School Learning Hub</p>
+      </div>
+
+      <p>© 2026 Assignment Portal. All Rights Reserved.</p>
+    </footer>
+
+    <!-- ================= JAVASCRIPT ================= -->
+
+    <script src="script.js"></script>
+  </body>
+</html>
