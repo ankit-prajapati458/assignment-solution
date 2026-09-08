@@ -1426,6 +1426,430 @@ const questions = [
         chapter: "Chapter 3 — Democracy",
         question: "What are some challenges faced by democratic societies?",
         answer: "Challenges include inequality, discrimination, corruption, misinformation, low participation, and conflicts between different interests."
+    },
+
+
+    // =====================================================
+    // ================= CLASS 9 BIOLOGY ===================
+    // =====================================================
+
+
+    // ================= CHAPTER 1 =========================
+    // ============ THE FUNDAMENTAL UNIT OF LIFE ============
+
+
+    // ================= PART A =============================
+
+    {
+        id: 953,
+        questionNumber: 1,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "Which cell organelle is commonly known as the 'Powerhouse of the cell'? (a) Plastid (b) Mitochondria (c) Golgi apparatus (d) Lysosome",
+        answer: "(b) Mitochondria. Mitochondria are called the powerhouse of the cell because they produce energy in the form of ATP."
+    },
+
+    {
+        id: 954,
+        questionNumber: 2,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "The basic structural and functional unit of all living organisms is called: (a) Tissue (b) Organ (c) Cell (d) Organelle",
+        answer: "(c) Cell. The cell is the basic structural and functional unit of life."
+    },
+
+    {
+        id: 955,
+        questionNumber: 3,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "Which of the following is known as the 'Suicide Bag' of a cell? (a) Ribosome (b) Lysosome (c) Vacuole (d) Nucleolus",
+        answer: "(b) Lysosome. Lysosomes contain digestive enzymes that can break down damaged cell components."
+    },
+
+    {
+        id: 956,
+        questionNumber: 4,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "Plant cell walls are primarily made up of which material? (a) Cellulose (b) Protein (c) Lipid (d) Starch",
+        answer: "(a) Cellulose. The plant cell wall is mainly composed of cellulose."
+    },
+
+    {
+        id: 957,
+        questionNumber: 5,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "Which organelle is responsible for packaging and dispatching materials in a cell? (a) Endoplasmic reticulum (b) Golgi apparatus (c) Lysosome (d) Mitochondria",
+        answer: "(b) Golgi apparatus. The Golgi apparatus modifies, packages and dispatches materials within or outside the cell."
+    },
+
+    {
+        id: 958,
+        questionNumber: 6,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "A group of cells that are similar in structure and work together to achieve a specific function forms a: (a) Organ system (b) Organ (c) Organism (d) Tissue",
+        answer: "(d) Tissue. A tissue is a group of similar cells performing a specific function."
+    },
+
+    {
+        id: 959,
+        questionNumber: 7,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "Which type of tissue forms the inner lining of our mouth? (a) Squamous epithelium (b) Cuboidal epithelium (c) Columnar epithelium (d) Ciliated epithelium",
+        answer: "(a) Squamous epithelium. The inner lining of the mouth is made of squamous epithelium."
+    },
+
+    {
+        id: 960,
+        questionNumber: 8,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "Flexibility in plants is provided by which of the following permanent tissues? (a) Parenchyma (b) Collenchyma (c) Sclerenchyma (d) Chlorenchyma",
+        answer: "(b) Collenchyma. Collenchyma provides flexibility and mechanical support to growing plant parts."
+    },
+
+    {
+        id: 961,
+        questionNumber: 9,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "The muscle tissues which function throughout life continuously without fatigue are: (a) Skeletal muscles (b) Smooth muscles (c) Cardiac muscles (d) Voluntary muscles",
+        answer: "(c) Cardiac muscles. Cardiac muscles work continuously and rhythmically throughout life."
+    },
+
+    {
+        id: 962,
+        questionNumber: 10,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part A — Multiple Choice Questions",
+        question: "Nerve cells (neurons) make up the nervous tissue. A neuron does NOT contain: (a) Axon (b) Dendrite (c) Cell body (d) Tendon",
+        answer: "(d) Tendon. A neuron contains a cell body, dendrites and an axon, but not a tendon."
+    },
+
+
+    // ================= PART B =============================
+
+    {
+        id: 963,
+        questionNumber: 11,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part B — Assertion-Reason Questions",
+        question: "A: Plasma membrane is called a selectively permeable membrane. R: It allows entry and exit of only selected materials in and out of cell.",
+        answer: "(a) Both A and R are true and R is the correct explanation of A."
+    },
+
+    {
+        id: 964,
+        questionNumber: 12,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part B — Assertion-Reason Questions",
+        question: "A: Plant cells do not burst in highly dilute (hypotonic) solution. R: Plant cells possess a rigid outer cell wall that exerts counter pressure.",
+        answer: "(a) Both A and R are true and R is the correct explanation of A."
+    },
+
+    {
+        id: 965,
+        questionNumber: 13,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part B — Assertion-Reason Questions",
+        question: "A: Xylem and Phloem are called complex tissues. R: Complex tissues are made up of more than one type of cells working together as a unit.",
+        answer: "(a) Both A and R are true and R is the correct explanation of A."
+    },
+
+    {
+        id: 966,
+        questionNumber: 14,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part B — Assertion-Reason Questions",
+        question: "A: Sclerenchyma tissue provides flexibility to plants so they bend easily. R: Sclerenchyma cells are dead, long, narrow, and have thickened walls due to lignin.",
+        answer: "(d) A is false but R is true. Sclerenchyma provides strength and rigidity rather than flexibility."
+    },
+
+    {
+        id: 967,
+        questionNumber: 15,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part B — Assertion-Reason Questions",
+        question: "A: Mitochondria have their own DNA and ribosomes. R: Mitochondria are able to synthesize some of their own proteins independently.",
+        answer: "(a) Both A and R are true and R is the correct explanation of A."
+    },
+
+
+    // ================= PART C =============================
+
+    {
+        id: 968,
+        questionNumber: 16,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Osmosis with Raisins",
+        question: "Name process by which water entered raisins in Beaker A.",
+        answer: "The process is osmosis. Water moved into the raisins through their selectively permeable membranes."
+    },
+
+    {
+        id: 969,
+        questionNumber: 17,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Osmosis with Raisins",
+        question: "What kind of solution was present in Beaker A relative to raisin’s interior? Hypotonic/Hypertonic/Isotonic",
+        answer: "Beaker A contained a hypotonic solution relative to the interior of the raisins, so water entered the raisins and they swelled."
+    },
+
+    {
+        id: 970,
+        questionNumber: 18,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Osmosis with Raisins",
+        question: "What would happen to animal cell like RBC in Beaker A pure water?",
+        answer: "An RBC placed in pure water would take in water by osmosis, swell and may burst because it does not have a rigid cell wall."
+    },
+
+    {
+        id: 971,
+        questionNumber: 19,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Osmosis with Raisins",
+        question: "Define Plasmolysis based on water loss in plant cells.",
+        answer: "Plasmolysis is the process in which the plasma membrane of a plant cell pulls away from the cell wall because the cell loses water when placed in a hypertonic solution."
+    },
+
+    {
+        id: 972,
+        questionNumber: 20,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Osmosis with Raisins",
+        question: "Why does cell wall prevent plant cell bursting during experiment, whereas animal cell would rupture?",
+        answer: "The rigid cell wall provides mechanical strength and exerts counter pressure against excessive water entry. Animal cells lack this rigid cell wall and can therefore burst in a highly hypotonic solution."
+    },
+
+
+    // ================= CASE 2 =============================
+
+    {
+        id: 973,
+        questionNumber: 21,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Microscopic Examination of Plant Stems",
+        question: "Identify outermost protective single layer of cells in plant stem.",
+        answer: "The outermost protective single layer is the epidermis."
+    },
+
+    {
+        id: 974,
+        questionNumber: 22,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Microscopic Examination of Plant Stems",
+        question: "Which simple permanent tissue has thin walls, large vacuoles, storage?",
+        answer: "Parenchyma is the simple permanent tissue with thin cell walls and large vacuoles. It commonly performs storage functions."
+    },
+
+    {
+        id: 975,
+        questionNumber: 23,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Microscopic Examination of Plant Stems",
+        question: "Tissue with localized thickened cell corners providing mechanical support/flexibility is ________.",
+        answer: "Collenchyma. Its cell walls are unevenly thickened at the corners and provide support and flexibility."
+    },
+
+    {
+        id: 976,
+        questionNumber: 24,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Microscopic Examination of Plant Stems",
+        question: "Name two complex permanent tissues constituting vascular bundles.",
+        answer: "The two complex permanent tissues are xylem and phloem."
+    },
+
+    {
+        id: 977,
+        questionNumber: 25,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part C — Case-Based Questions: Microscopic Examination of Plant Stems",
+        question: "State main functional difference between xylem and phloem transport pathways.",
+        answer: "Xylem mainly transports water and minerals from roots to other parts of the plant, while phloem transports food prepared by leaves to other parts of the plant."
+    },
+
+
+    // ================= PART D =============================
+
+    {
+        id: 978,
+        questionNumber: 26,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Define a Cell and state why it is structural unit of life.",
+        answer: "A cell is the basic structural and functional unit of life. All living organisms are made up of one or more cells, and the activities necessary for life occur within cells."
+    },
+
+    {
+        id: 979,
+        questionNumber: 27,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Define a Tissue and explain utility in multicellular organisms.",
+        answer: "A tissue is a group of similar cells that work together to perform a particular function. Tissues provide division of labour and make the functioning of multicellular organisms more efficient."
+    },
+
+    {
+        id: 980,
+        questionNumber: 28,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Define Diffusion and give one everyday example.",
+        answer: "Diffusion is the movement of particles from a region of higher concentration to a region of lower concentration. An everyday example is the spreading of perfume smell throughout a room."
+    },
+
+    {
+        id: 981,
+        questionNumber: 29,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Define Osmosis. How differs fundamentally from simple diffusion?",
+        answer: "Osmosis is the movement of water molecules through a selectively permeable membrane from a region of higher water concentration to a region of lower water concentration. Unlike simple diffusion, osmosis specifically involves water and requires a selectively permeable membrane."
+    },
+
+    {
+        id: 982,
+        questionNumber: 30,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Main structural differences Prokaryotic vs Eukaryotic cell.",
+        answer: "Prokaryotic cells are generally smaller and do not have a true membrane-bound nucleus or membrane-bound organelles. Eukaryotic cells are generally larger and possess a well-defined membrane-bound nucleus and membrane-bound organelles."
+    },
+
+    {
+        id: 983,
+        questionNumber: 31,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Draw neat conceptual outline comparing Plant and Animal Cell based on three distinct features.",
+        answer: "Conceptual comparison: 1. Plant cells have a cell wall, while animal cells do not. 2. Plant cells usually have chloroplasts, while animal cells do not. 3. Plant cells generally have one large central vacuole, while animal cells usually have smaller vacuoles."
+    },
+
+    {
+        id: 984,
+        questionNumber: 32,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Main functions: (a) Nucleus, (b) Ribosome.",
+        answer: "(a) Nucleus: It controls cell activities and contains genetic material (DNA). (b) Ribosome: It is the site of protein synthesis."
+    },
+
+    {
+        id: 985,
+        questionNumber: 33,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Why Lysosomes called 'scavengers' or 'suicide bags'?",
+        answer: "Lysosomes contain digestive enzymes that break down waste materials, foreign substances and worn-out cell organelles. They are called scavengers because they clean the cell and suicide bags because their enzymes can digest cell components if released in certain conditions."
+    },
+
+    {
+        id: 986,
+        questionNumber: 34,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Distinguish Smooth ER (SER) and Rough ER (RER).",
+        answer: "Rough ER has ribosomes attached to its surface and mainly helps in the synthesis and transport of proteins. Smooth ER lacks ribosomes and is mainly involved in lipid synthesis and detoxification."
+    },
+
+    {
+        id: 987,
+        questionNumber: 35,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Name three types Plastids and primary function of Chloroplasts.",
+        answer: "The three main types of plastids are chloroplasts, chromoplasts and leucoplasts. Chloroplasts perform photosynthesis and contain chlorophyll, which captures light energy."
+    },
+
+    {
+        id: 988,
+        questionNumber: 36,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Classify plant tissues into two primary functional categories based on dividing capacity.",
+        answer: "Plant tissues are broadly classified into meristematic tissues and permanent tissues. Meristematic tissues actively divide, while permanent tissues generally lose the ability to divide and perform specialised functions."
+    },
+
+    {
+        id: 989,
+        questionNumber: 37,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Structural characteristics and location of Meristematic tissue.",
+        answer: "Meristematic cells are actively dividing, small and closely packed, with thin cell walls, dense cytoplasm, prominent nuclei and little or no vacuole. They are found in growing regions such as root tips, shoot tips and lateral meristems."
+    },
+
+    {
+        id: 990,
+        questionNumber: 38,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Differentiate Parenchyma, Collenchyma, Sclerenchyma based on cell wall structures.",
+        answer: "Parenchyma has thin cell walls and usually large spaces between cells. Collenchyma has unevenly thickened walls, especially at the corners, providing flexibility. Sclerenchyma has very thick, lignified walls and usually consists of dead cells, providing strength and rigidity."
+    },
+
+    {
+        id: 991,
+        questionNumber: 39,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Three major types muscle fibers in animals and where cardiac muscles located.",
+        answer: "The three major types are skeletal muscles, smooth muscles and cardiac muscles. Cardiac muscles are found in the walls of the heart."
+    },
+
+    {
+        id: 992,
+        questionNumber: 40,
+        subject: "Biology",
+        chapter: "Chapter 1 — The Fundamental Unit of Life",
+        section: "Part D — Definitions & Easy Conceptual Questions",
+        question: "Draw simple labeled neuron diagram showing Cyton, Dendrites, Axon.",
+        answer: "A simple neuron diagram should label: Dendrites → Cyton (cell body) → Axon. Dendrites receive signals, the cyton contains the nucleus and maintains the cell, and the axon carries nerve impulses away from the cell body."
     }
 
 ];
@@ -1434,17 +1858,6 @@ const questions = [
 /* =========================================
    CLASS DETECTION
    ========================================= */
-
-/*
-   Existing Class 10 questions:
-   IDs 1–155
-
-   New Class 9 questions:
-   IDs 901–952
-
-   We automatically assign className so you
-   don't have to edit every old question.
-*/
 
 questions.forEach(q => {
 
@@ -1476,6 +1889,8 @@ const subjectIcons = {
     "History": "📜",
 
     "Science": "🔬",
+
+    "Biology": "🧬",
 
     "Mathematics": "📐",
 
@@ -1534,10 +1949,10 @@ function showClass(className) {
     if (className === "Class 9") {
 
         subtitle.innerText =
-            "CLASS 9 • SOCIAL SCIENCE";
+            "CLASS 9 • ASSIGNMENTS";
 
         title.innerText =
-            "Social Science Assignment";
+            "Class 9 Assignment";
 
     }
 
@@ -1782,7 +2197,9 @@ function displayQuestions() {
                             " " +
                             item.answer +
                             " " +
-                            item.chapter
+                            item.chapter +
+                            " " +
+                            (item.section || "")
                         ).toLowerCase();
 
 
@@ -2006,26 +2423,41 @@ function createQuestion(q) {
 
 
     /*
-       Class 9 numbering
+       QUESTION NUMBER
 
+       Biology has its own Q1-Q40 numbering.
+
+       Existing Class 9 Social Science:
        ID 901 = Q1
        ID 902 = Q2
-       ...
-       ID 917 = Q17
-       ID 938 = Q38
+       etc.
 
        Class 10 numbering remains normal.
     */
 
-    let questionNumber = q.id;
+    let questionNumber;
 
 
-    if (
+    if (q.questionNumber !== undefined) {
+
+        questionNumber =
+            q.questionNumber;
+
+    }
+
+    else if (
         q.className === "Class 9"
     ) {
 
         questionNumber =
             q.id - 900;
+
+    }
+
+    else {
+
+        questionNumber =
+            q.id;
 
     }
 
